@@ -1,4 +1,4 @@
-# iseek-footer
+# iSeek Footer
 Adds configurable footer for iSeek WordPress sites.
 
 ## Installation
