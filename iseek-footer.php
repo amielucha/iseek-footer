@@ -80,7 +80,7 @@ function iseek_footer_customize($wp_customize) {
 
 	// Add the setting
 	$wp_customize->add_setting( 'iseek_footer_text_color', array(
-	    'default'        => '#0073aa',
+	    'default'        => '#555555',
 	) );
 
 	// Add the color picker
@@ -92,7 +92,7 @@ function iseek_footer_customize($wp_customize) {
 
 	// Add the setting
 	$wp_customize->add_setting( 'iseek_footer_background_color', array(
-	    'default'        => '#0073aa',
+	    'default'        => '#ffffff',
 	) );
 
 	// Add the color picker
